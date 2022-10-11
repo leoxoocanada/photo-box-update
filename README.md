@@ -1,2 +1,3 @@
-# photo-box-update
-A update server for photo-box
+# 照片盒子更新记录
+
+## 0.1.0
