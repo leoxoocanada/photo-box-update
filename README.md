@@ -7,16 +7,13 @@
 ## 软件截图
 
 软件初始界面
-![](./screenshot/SCR-20221020-w0d.png)
-
-加载照片
-![](./screenshot/SCR-20221020-w2f.png)
+![](./screenshot/1.png)
 
 查看照片详情及预览
-![](./screenshot/SCR-20221020-w5o.png)
+![](./screenshot/2.png)
 
 重命名后的文件列表
-![](./screenshot/SCR-20221020-w6r.png)
+![](./screenshot/3.png)
 
 ## 更新记录
 
